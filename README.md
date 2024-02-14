@@ -10,3 +10,5 @@
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+<h2>Contribute</h2>
+<p>I am always curious to know how better can we make one thing. So, feel free to make contributions. If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.</p>
